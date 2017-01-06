@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "910758256839",
+    "firebase_url": "https://assima-97c8c.firebaseio.com",
+    "project_id": "assima-97c8c",
+    "storage_bucket": "assima-97c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910758256839:android:373102694ac253a9",
+        "android_client_info": {
+          "package_name": "com.aqua_society.a9asimma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910758256839-v9qp92ar8oov9ielv9jmv95s1tverp94.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "910758256839-f89999v5tcgo0v63016bf2r5ha88v4ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_knjzYtjWhV_caQb_0iwDKw6ZiGxi4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910758256839:android:bd37c42d0868baf7",
+        "android_client_info": {
+          "package_name": "com.aqua_society.movieprank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910758256839-v9qp92ar8oov9ielv9jmv95s1tverp94.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "910758256839-f89999v5tcgo0v63016bf2r5ha88v4ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_knjzYtjWhV_caQb_0iwDKw6ZiGxi4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910758256839:android:368b040e5590e5c2",
+        "android_client_info": {
+          "package_name": "com.aqua_society.pdfreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910758256839-v9qp92ar8oov9ielv9jmv95s1tverp94.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "910758256839-f89999v5tcgo0v63016bf2r5ha88v4ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_knjzYtjWhV_caQb_0iwDKw6ZiGxi4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910758256839:android:d0a4304aaa4997e7",
+        "android_client_info": {
+          "package_name": "com.aqua_society.quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910758256839-v9qp92ar8oov9ielv9jmv95s1tverp94.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "910758256839-f89999v5tcgo0v63016bf2r5ha88v4ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_knjzYtjWhV_caQb_0iwDKw6ZiGxi4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

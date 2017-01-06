@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyButton">
+        <attr name="text" format="string"/>
+        <attr name="button_icon" format="integer"/>
+        <attr name="button_pagination" format="integer"/>
+    </declare-styleable>
+
+
+</resources>
